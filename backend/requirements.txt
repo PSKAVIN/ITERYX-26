@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+spacy
+sentence-transformers
+pydantic
+python-docx
